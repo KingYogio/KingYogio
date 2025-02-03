@@ -34,7 +34,7 @@
 - 🤔 <samp><b>I’m looking for help with how to excel in Hadoop</b>
 - 💬 <samp><b>Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!</b>
 - ✉️ <samp><b>You can email me at Nishad.yogi@gmail.com. I'll try to respond as soon as possible!</b>
-- 📄 <samp><b>You can check my [Resume](https://drive.google.com/file/d/1Ou9p1azVQBYRRVGZ5NRWpfuHN02S3JRt/view?usp=drive_link) for more details about work experience.</b>
+- 📄 <samp><b>You can check my [Resume](https://drive.google.com/file/d/1GJnwDz-BMMq75o2aFYF6Owb-4sgrjeek/view?usp=sharing) for more details about work experience.</b>
 </div>
 
 ## 🛠 &nbsp;Tech Stack
